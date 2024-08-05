@@ -30,7 +30,10 @@ print(f"Number server: {restaurant.number_served}")
 
 
 
-
+Restaurant server: 0
+Restaurant server: 150
+Restaurant server: 300
+Number server: 450
 
 
 
